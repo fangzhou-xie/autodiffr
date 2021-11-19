@@ -7,6 +7,7 @@
 
 [![License:
 MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![R-CMD-check](https://github.com/fangzhou-xie/autodiffr/workflows/R-CMD-check/badge.svg)](https://github.com/fangzhou-xie/autodiffr/actions)
 <!-- badges: end -->
 
 The goal of `autodiffr` is to provide the C++ automatic differentation
