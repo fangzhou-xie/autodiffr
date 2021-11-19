@@ -1,0 +1,15 @@
+Package: autodiffr
+Type: Package
+Title: Automatic Differentiation in R Using "autodiff"
+Version: 0.1.0
+Authors@R: 
+    c(person(given = "Fangzhou", family = "Xie", role = c("aut", "cre"), 
+    email = "fangzhou.xie@rutgers.edu", comment = c(ORCID = "0000-0001-7702-093X")))
+Maintainer: Fangzhou Xie <fangzhou.xie@rutgers.edu>
+Description: The 'autodiffr' package provides a wrapper around the C++ header-only library 
+    'autodiff' <https://autodiff.github.io/> for automatic differentiation.
+License: MIT + file LICENSE
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 7.1.2
+Encoding: UTF-8
