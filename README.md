@@ -10,7 +10,7 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 <!-- badges: end -->
 
 The goal of `autodiffr` is to provide the C++ automatic differentation
-library `autodiff` in R.
+library [autodiff](https://github.com/autodiff/autodiff/) in R.
 
 ## Installation
 
